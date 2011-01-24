@@ -1,0 +1,8 @@
+Mostrar la hora en el index con este formato: 10/1/2011
+pista http://www.ruby-doc.org/core/classes/Time.html#M000392
+
+crear una migracion que añada el campo email a la tabla people
+pista buscar "Creating a Standalone Migration" en http://guides.rubyonrails.org/migrations.html
+
+meter el menu en un partial "shared/user_menu"
+pista buscar "Using Partials" en http://guides.rubyonrails.org/layouts_and_rendering.html#using-partials"
