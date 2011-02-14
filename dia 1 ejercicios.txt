@@ -30,7 +30,7 @@ Scaffolds
   rake db:migrate
   
 Links  
-  añadir links a "doctors" y "patients" en el index
+  añadir links a "events" y "people" en el index
 	Pista http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html#method-i-link_to
   
   #public/stylesheets/scaffold.css
@@ -42,7 +42,7 @@ Deploy
 	git init
 	git add .
 	git commit -m "my new rails app"
-	heroku create intro-rails-rai
+	heroku create intro-rails-tu-nombre
 	git push heroku master
 	heroku rake db:migrate
 	
